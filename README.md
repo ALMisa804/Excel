@@ -1,4 +1,4 @@
-Analysis of Kickstarter campaigns
+Analysis of Kickstarter campaigns:
 
 2185 out of 4,114 Kickstarter campaigns (53%) were successful.  The categories of theater, music and film & video made up 77% of the successful projects while the other categories of technology, photography, publishing, games and food comprise the remaining 23%. With regards to the 1,530 failed campaigns which make up 37% of all campaigns, the categories of food, games and publishing saw the highest failure rates. Also, all of the journalism projects were cancelled.
 
